@@ -1,0 +1,9 @@
+.home-container  .form .col-sm-8 .img_home img{
+
+}
+.home-container .form{
+    display: flex;
+}
+.home-container .form .col-sm-4{
+    margin: 150px 30px 0px 30px ;
+}
